@@ -1,0 +1,44 @@
+1: Complete User Authentication System      (completed)
+    a: Client 
+    b: serverside            
+
+2: Add Events                                (completed)
+    note: logged in user can update his event and not others.
+    a: Server side using postman (for image leave empty, Multiple add events)
+    b: create UI for displaying All events from all users 
+
+3: Add Image Uploader (completed)
+    a: user login 
+    b: for event 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make a Website using MERN Stack with Authentication (Register/Login), 
+Profile
+Events (Add/View)
+Details - Events should contain Name, 
+                                Date, 
+                                Time, 
+                                Description,
+                                Thumbnail, 
+                                Event Link 
+and events should be multiple
+Submission Format - Video Recorded of codes and working separately.
+Submission Details - Upload your Videos in GDrive/Dropbox and share the link with Anyone can view
+Submission Date - 9 Nov 2021 by 08:00 PM
